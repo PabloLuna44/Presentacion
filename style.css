@@ -322,7 +322,7 @@ fieldset {
   }
 
   input[type="radio"] {
-    width: 1rem;
+    width: 2rem;
   }
 }
 
