@@ -318,7 +318,7 @@ fieldset {
 
 @media (max-width: 480px) {
   fieldset {
-    width: 30rem;
+    width: 38rem;
   }
 
   input[type="radio"] {
