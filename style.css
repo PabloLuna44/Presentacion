@@ -330,9 +330,7 @@ fieldset {
   fieldset {
     width: 50rem;
   }
-  input[type="radio"] {
-    width: 10rem;
-  }
+ 
 }
 
 input,
